@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/portfolio-janani/static/js/main.15bdf205.chunk.js",
+    "main.js.map": "/portfolio-janani/static/js/main.15bdf205.chunk.js.map",
+    "runtime-main.js": "/portfolio-janani/static/js/runtime-main.4359dd4d.js",
+    "runtime-main.js.map": "/portfolio-janani/static/js/runtime-main.4359dd4d.js.map",
+    "static/js/2.7567e5b5.chunk.js": "/portfolio-janani/static/js/2.7567e5b5.chunk.js",
+    "static/js/2.7567e5b5.chunk.js.map": "/portfolio-janani/static/js/2.7567e5b5.chunk.js.map",
+    "index.html": "/portfolio-janani/index.html",
+    "precache-manifest.1856a2d74f9c113c5165e0d8b3471f05.js": "/portfolio-janani/precache-manifest.1856a2d74f9c113c5165e0d8b3471f05.js",
+    "service-worker.js": "/portfolio-janani/service-worker.js",
+    "static/js/2.7567e5b5.chunk.js.LICENSE.txt": "/portfolio-janani/static/js/2.7567e5b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4359dd4d.js",
+    "static/js/2.7567e5b5.chunk.js",
+    "static/js/main.15bdf205.chunk.js"
+  ]
+}
