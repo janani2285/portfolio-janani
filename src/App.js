@@ -1,12 +1,14 @@
 import React from 'react';
+import Aboutme from "./components/aboutMe"
+import image from "./images/background.jpg"
 
 
 function App() {
+ 
   return (
-    <div>
-      <header>
-       <h1>Portfolio</h1>
-      </header>
+    <div style ={ { backgroundImage: `url(${image})`} }>
+      <Aboutme />
+     
     </div>
   );
 }
